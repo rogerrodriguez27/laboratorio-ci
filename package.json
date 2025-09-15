@@ -1,0 +1,23 @@
+{
+  "name": "laboratorio-ci",
+  "version": "1.0.0",
+  "description": "\"# Laboratorio CI-CD\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerrodriguez27/laboratorio-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogerrodriguez27/laboratorio-ci/issues"
+  },
+  "homepage": "https://github.com/rogerrodriguez27/laboratorio-ci#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
